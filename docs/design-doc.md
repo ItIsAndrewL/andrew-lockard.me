@@ -40,3 +40,54 @@ Andrew may occasionally reference this website to gather information for a
 new job or club application and will expect information to be easily
 accessible. Andrew will also periodically be updating the website with new
 information and expects the process to be painless and simple.
+
+## 3. User Stories
+
+### Story A
+
+As any persona I want to have easy access to the navigation bar from any
+page on the website
+
+Subtasks:
+
+1. The nav bar needs to be easily readable and at the top of the webpage
+2. The nav bar will be responsive for smaller screens and will collapse to
+a menu button on cell phones
+3. The nav bar will include a custom "Andrew Lockard" logo
+
+### Story B
+
+As Cathy Classmate I want a visually intriguing view on the home page, with
+small selections of Andrew's accomplishments
+
+Subtasks:
+
+1. Have the home screen scroll through "bars" of info with pictures in between
+2. Include personal statement and highlights of my career/education
+
+### Story C
+
+As Richard Recruiter I want to click on the `Projects` tab in nav bar and see
+a library view of Andrew's past projects.
+
+Subtasks:
+
+1. Add `Projects` to the nav bar
+2. Create a `projects` service to store data related to each project, allowing
+Andrew Actual an easy way to edit project data
+3. Have projects display in a clickable card
+4. Each card will link to a details view which will allow Richard to see:
+    - Github link
+    - Project Description
+    - Hosting Link (if any)
+    - Video/Image library
+
+### Story D
+
+As Richard Recruiter I want to click on on the `Career` tab to see a list of
+Andrew's past positions and education.
+
+Subtasks:
+
+1. Include `Career` tab in nav bar
+2. 
