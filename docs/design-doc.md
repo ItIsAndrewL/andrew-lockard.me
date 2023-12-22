@@ -90,4 +90,18 @@ Andrew's past positions and education.
 Subtasks:
 
 1. Include `Career` tab in nav bar
-2. 
+2. Display Resume like info in a readable yet fashionable fashion
+3. Link to pdf of resume
+4. Include favorite classes section
+
+### Story E
+
+As any persona I want to click on the `Contact` tab to send Andrew an email if
+I am interested in getting in contact with him
+
+Subtasks:
+
+1. Include `Contact` tab in nav bar
+2. Create form with spots for email, name, and message
+3. On submit, Andrew Actual should receive a notification via email, text message,
+or other means
