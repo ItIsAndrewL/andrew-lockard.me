@@ -105,3 +105,20 @@ Subtasks:
 2. Create form with spots for email, name, and message
 3. On submit, Andrew Actual should receive a notification via email, text message,
 or other means
+
+## 4. Wireframes / Design
+
+### Color Pallette
+
+![#5C9EAD](https://placehold.co/15x15/5C9EAD/5C9EAD.png) `#5C9EAD` - Moonstone
+
+![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF` - White
+
+![#326273](https://placehold.co/15x15/326273/326273.png) `#326273` - Payne's Grey
+
+![#EEEEEE](https://placehold.co/15x15/EEEEEE/EEEEEE.png) `#EEEEEE` - Anti-flash White
+
+![#E39774](https://placehold.co/15x15/E39774/E39774.png) `#E39774` - Atomic Tangerine
+
+[Example of Designs with Color Pallette](https://coolors.co/visualizer/5c9ead-ffffff-326273-eeeeee-e39774)
+
