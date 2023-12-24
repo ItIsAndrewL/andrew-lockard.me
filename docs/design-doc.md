@@ -106,7 +106,7 @@ Subtasks:
 3. On submit, Andrew Actual should receive a notification via email, text message,
 or other means
 
-## 4. Wireframes / Design
+## 4. Design Considerations
 
 ### Color Pallette
 
@@ -122,3 +122,26 @@ or other means
 
 [Example of Designs with Color Pallette](https://coolors.co/visualizer/5c9ead-ffffff-326273-eeeeee-e39774)
 
+### Photo Parallax
+
+On the homepage, during the scrolling action, photos will appear to move 
+slower than the overall scrolling action, much like [this website](https://www.seher.no/annonsorinnhold/v/seher/sf/kvinnen-som-samlet-norden/11130128/).
+
+## 5. Wireframes
+
+![Homepage Top](./images/Home%20Page%20Top.png)
+
+This will be the landing page of the website. The logo will be designed 
+later and so will the artwork. On scroll, the clouds at the bottom will 
+rise up and cause the navbar to turn white and persist with that 
+background color thorugh the bottom of the document. Before any scoll has 
+happened, the arrow and "See Here" text will bounce up and down to entice 
+the reader to continue down the webpage.
+
+![Homepage Scroll](./images/Home%20Page%20Scroll.png)
+
+As the user continues to scroll, they will see some photos with the "photo 
+parallax" described above. The user will also see multiple pannels of 
+information on Anti-Flash White background. They can include pictures and 
+will be read as short articles. I plan to keep these to 1-2 small 
+paragraphs of info.
